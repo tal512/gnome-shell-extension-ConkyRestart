@@ -1,0 +1,13 @@
+{
+  "name": "ConkyRestart",
+  "description": "Restarts WH1000MX4 Conky script",
+  "uuid": "ConkyRestart",
+  "shell-version": [
+    "3.36",
+    "3.38",
+    "40",
+    "41",
+    "42",
+    "43"
+  ]
+}
